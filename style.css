@@ -6,6 +6,9 @@
     height: 100%;
     border-right: solid;
     border-color: gray;
+    font-weight: bolder;
+    background-color: aquamarine;
+
 }
 
 #main-doc header {
@@ -16,6 +19,7 @@
 #main-doc {
     position: absolute;
     margin-left: 320px;
+    background-color: cadetblue;
 }
 
 .nav {
@@ -30,4 +34,8 @@
 header {
     font-weight: bolder;
     font-size: 30px;
+}
+
+#nav_list {
+    list-style-type: none;
 }
